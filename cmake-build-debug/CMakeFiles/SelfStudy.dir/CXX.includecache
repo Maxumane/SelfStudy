@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/JobPrep/CPlusPrac/SelfStudy/main.cpp
+iostream
+-
+climits
+-
+vector
+/cygdrive/d/JobPrep/CPlusPrac/SelfStudy/vector
+unordered_map
+/cygdrive/d/JobPrep/CPlusPrac/SelfStudy/unordered_map
+
